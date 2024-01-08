@@ -1,4 +1,4 @@
-# RProgrammingBasics
+# R Programming Basics: A User-Friendly Introduction
 This repository contains class materials built by Trent University Library and Archives' Maps, Data and Government Information Centre for a two-hour introductory R workshop.
 
 Curious about R coding? Our intro to R programming workshop is perfect for beginners from any field, with no prior experience needed.
