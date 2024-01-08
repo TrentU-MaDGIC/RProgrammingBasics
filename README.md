@@ -11,7 +11,7 @@ Understand the ABCs of Data: Explore different data types and structures in R, l
 The directory contains the:
 
 * Script for students to work through with blanks (RBasics.R)
-* * Script for students to work through without blanks (RBasics_Filled.R)
+* Script for students to work through without blanks (RBasics_Filled.R)
 * Completed annotated workshop script (RBasics_Fullworkshop.pdf)
 * Slides presented (Slides_RBasics.pdf)
 * Custom reference sheet for concepts covered (Cheatsheet_RBasics.pdf)
