@@ -15,4 +15,4 @@ Completed annotated workshop script (RBasics_Filled.pdf)
 Slides presented (Slides_RBasics.pdf)
 Custom reference sheet for concepts covered (Cheatsheet_RBasics.pdf)
 Daily weather data from Daymet used in the workshop (Daymet_data.csv)
-If you have any questions, please get in touch with madgicHelp@trentu.ca.
+If you have any questions, please get in touch with madgichelp@trentu.ca.
