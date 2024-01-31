@@ -406,11 +406,11 @@ tail(Ptbo_Temps, n = 6)
 
 # str(): compactly shows the data frame's internal structure
 # this includes the number of rows, columns, column names, column data types, and first few values per column.
-______(Ptbo_Temps)
+str(Ptbo_Temps)
 
 # If you need to see the entire data frame, use View()
 # View() will open the data frame in a new window 
-______(Ptbo_Temps)
+View(Ptbo_Temps)
 
 # Calculating descriptive statistics for data frames is similar to vectors. 
 # However, you must specify which column is being considered with $
